@@ -22,8 +22,9 @@ body{
 }
 .Titulo{
     display: flex;
-    gap: 15px;
     text-align: center;
+     gap: 15px;
+     line-height: 1;
     justify-content: center;
     font-weight: bold;
     padding: 3%;
