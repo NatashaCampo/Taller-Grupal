@@ -17,11 +17,14 @@ body{
     color: #c0b9a8 ;
     font-width: small;
 }
-.titulo{
+.Titulo{
+    text-align: center;
     justify-content: center;
     padding: 5%;
 }
-
+.parrafo_inicio{
+    padding: 2%;
+}
 .container {
     width: 90%;
     max-width: 600px;
