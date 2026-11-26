@@ -66,3 +66,30 @@ body{
     color: #255FDA;
     font-size: 20px;
 }
+.search{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+}
+.buscador{
+    position: relative;
+    width: 75%;
+}
+.buscador input{
+    width: 100%;
+    padding: 12px 40px 12px 15px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    outline: none;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+.buscador i{
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #2861c5;
+    cursor: pointer;
+}
