@@ -3,7 +3,21 @@ body{
     padding:0;
     background-color: white;
     color: #333333;
+    font-family: Arial, Helvetica, sans-serif;
 }
+.ColorAzul{
+    color:  #4b6a8d ;
+    font-weight: bold;
+}
+.titulo-sinonimos{
+    color:   #b9a9a6;
+    font-weight: bold;
+}
+.footer_footer{
+    color: #c0b9a8 ;
+    font-width: small;
+}
+
 .container {
     width: 90%;
     max-width: 600px;
