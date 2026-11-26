@@ -17,6 +17,10 @@ body{
     color: #c0b9a8 ;
     font-width: small;
 }
+.titulo{
+    justify-content: center;
+    padding: 5%;
+}
 
 .container {
     width: 90%;
