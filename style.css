@@ -20,10 +20,20 @@ body{
     font-weight: bold;
 }
 .Titulo{
+    display: flex;
+    gap: 15px;
     text-align: center;
     justify-content: center;
     font-weight: bold;
     padding: 3%;
+    color: #444;
+}
+.Titulo::before,
+.Titulo::after{
+    content: "";
+    flex: 1;
+    height: 1px;
+    background-color: #e0e0e0;
 }
 .parrafo_inicio{
     padding: 1%;
@@ -35,6 +45,9 @@ body{
 }
 .sinonimos{
     padding: 1%;
+}
+.parrafo{
+    text-align: justify;
 }
 .header {
     display: flex;
