@@ -23,8 +23,8 @@ body{
 .Titulo{
     display: flex;
     text-align: center;
-     gap: 15px;
-     line-height: 1;
+    gap: 15px;
+    line-height: 1;
     justify-content: center;
     font-weight: bold;
     padding: 3%;
@@ -56,4 +56,13 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+.logo {
+    color: #255FDA;
+    font-size: 28px;
+}
+
+.traductor {
+    color: #255FDA;
+    font-size: 20px;
 }
