@@ -3,7 +3,6 @@ body{
     padding:0;
     background-color: white;
     color: #333333;
-<<<<<<< HEAD
     font-family: Arial, Helvetica, sans-serif;
 }
 .ColorAzul{
@@ -18,11 +17,9 @@ body{
     color: #c0b9a8 ;
     font-width: small;
 }
-=======
-}
+
 .container {
     width: 90%;
     max-width: 600px;
     margin: 0 auto;
 }
->>>>>>> 04c6ab18584a5192fb289bd07a346c7df6414419
