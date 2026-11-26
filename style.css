@@ -15,7 +15,8 @@ body{
 }
 .footer_footer{
     color: #c0b9a8 ;
-    font-width: small;
+    font-size: 80%;
+    padding: 1%;
 }
 .Titulo{
     text-align: center;
